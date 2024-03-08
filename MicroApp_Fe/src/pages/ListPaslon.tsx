@@ -1,5 +1,5 @@
 import Navbar from "../components/Fragments/Navbar";
-import Logo from "../assets/monyet.png";
+import Logo from "../assets/monkey1.png";
 import { FaPlus } from "react-icons/fa6";
 import { Link } from "react-router-dom";
 import DataListAdmin from "../data/dataListAdmin.json";
